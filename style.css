@@ -170,6 +170,10 @@ h3 {
     font-size: 15px;
 }
 
+.button {
+    text-decoration: none;
+}
+
 .footer {
     background-color: #1F2937;
     color: #fff;
