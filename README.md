@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://jhufredl.github.io/project_landing_page/)
+[Live Demo Link](https://lissandro0.github.io/landing_page_lissandro_16nov23/)
 
 
 ## Getting Started
